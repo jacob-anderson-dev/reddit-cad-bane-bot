@@ -27,9 +27,15 @@ cadBaneQuotes = [
     "Reward?! I'll give you a reward when I plug you full of laser bolts!",
     "I've taken down so many clones over the years. Once you figure out one, the rest are easy.",
     "By hook or by crook…you're coming with me.",
-    "I knew you were a killer.",
+    "I knew you were a killer. *gets shanked*",
     "Sure, sure. As long as I get paid, it makes no difference to me",
     "You lack the experience to be goin' up against me.",
+    "Oh, I just hate it when somebody does my job.",
+    "Cad Bane at your service.",
+    "I'm your worst nightmare, pal.",
+    "I'd be careful where I was sticking my nose if I were you.",
+    "I paid Marshal Vanth a visit. You should've never left him wihtout his armor.",
+    ""
 ]
 
 triggerPhrase = "!cadbane"
